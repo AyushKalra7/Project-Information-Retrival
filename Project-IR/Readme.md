@@ -4,7 +4,7 @@
 
 My Azure has the files
 
-  - The full source code directory named as **ss/LuceneFinal**.
+  - The full source code directory named as **ss/Project-IR**.
   - The **trec_eval** folder is also in the **src** folder of project folder
   - The **CranField** whihc constains **Corrected Qrels** named as  **qrelnew** is in **src** folder of project folder
 
